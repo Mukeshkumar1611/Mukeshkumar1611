@@ -5,7 +5,7 @@
 
 
 <hr>
-- 🔭 I’m currently working on **Mern Stack + DSA**
+- 🔭 I’m currently working on **DSA**
 
 - 👯 I’m looking to collaborate on **Data structures and algorithms**
 
