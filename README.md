@@ -11,4 +11,3 @@
 
 - 📫 How to reach me **mukesh0895.be21@chitkara.edu.in**
 
-- ⚡ Fun fact **I Think I am Overthinker**
